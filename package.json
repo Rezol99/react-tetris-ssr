@@ -1,5 +1,5 @@
 {
-  "name": "react-tetris",
+  "name": "react-tetris-ssr",
   "version": "0.4.0",
   "description": "Embed a game of Tetris in your React app",
   "main": "lib/components/Tetris.js",
@@ -21,7 +21,7 @@
     "test": "tsc --noEmit && npm run lint && npm run test:unit",
     "test:unit": "esbuild --bundle --platform=node test/index.ts | node"
   },
-  "author": "Matthew Brandly",
+  "author": "Rezol99",
   "license": "MIT",
   "devDependencies": {
     "@types/assert": "1.5.10",
