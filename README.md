@@ -5,7 +5,7 @@
 > Embed a game of Tetris in your React app
 
 ```shell
-$ npm install --save react-tetris
+$ npm install --save react-tetris-ssr
 ```
 
 [view demo](https://brandly.github.io/react-tetris/)
